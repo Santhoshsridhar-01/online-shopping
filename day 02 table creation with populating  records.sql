@@ -1,3 +1,4 @@
+#sample line addded.. john
 #create database indium_project;
 use indium_project;
 create table project
