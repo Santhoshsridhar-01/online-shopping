@@ -19,3 +19,4 @@ select*from project;
 alter table project add Client_Name varchar(255);
 select*from project;
 #create database and table
+# Inserted records for the project details
