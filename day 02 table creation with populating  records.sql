@@ -18,3 +18,4 @@ insert into project values(14,'mindtree',4,'pune'),(15,'orangetricks',9,'chennai
 select*from project;
 alter table project add Client_Name varchar(255);
 select*from project;
+#create database and table
